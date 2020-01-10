@@ -13,4 +13,4 @@ def link
   puts block
 end
 
-def 
+def any_phrase()
