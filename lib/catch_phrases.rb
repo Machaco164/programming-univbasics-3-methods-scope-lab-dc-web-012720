@@ -10,5 +10,5 @@ end
 
 def link 
   block = "It's Dangerous To Go Alone! Take This."
-  puts block_given
+  puts block
 end
